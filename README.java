@@ -27,18 +27,12 @@ Primary interest and language of choice is java, what I was tought in school and
 package com.example.helloworld;
 //import java.awt.*;
 
-
-
-
 public class helloWorld {
-
     public static void main(String[] args) {
-
         System.out.println("test");
         System.out.println("Good lord I think it's working?\n");
         System.out.println("It's working.");
         System.out.println("And as is tradition: \n Hello world ");
-
 
     }//end of main
 }//end of file
