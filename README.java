@@ -9,7 +9,6 @@
  */
 
 package com.example.helloworld;
-//import java.awt.*;
 
 public class helloWorld {
     public static void main(String[] args) {
