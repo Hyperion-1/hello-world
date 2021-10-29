@@ -4,8 +4,8 @@
  * AUTHOR: Bradley M. WALKER ▐ 2021_10_18 @ ~01:15
  * ABSTRACT: Self-evident system print to test IDE functionality and ensure this thing can actually compile,
  *            and of course, you simply must 'hello world'
- * LAST EDIT: 2021_10_24 @ 04:49
- * _>added to github for practice and for posterity 
+ * LAST EDIT: 2021_10_28 @ 20:12
+ * _>added to github for practice and for posterity | 2021_10_28 @ 20:11
  */
 
 package com.example.helloworld;
